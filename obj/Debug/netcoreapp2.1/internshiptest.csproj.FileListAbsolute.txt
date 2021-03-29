@@ -1,0 +1,12 @@
+/home/intern/Downloads/InternshipTest Csharp/bin/Debug/netcoreapp2.1/internshiptest.deps.json
+/home/intern/Downloads/InternshipTest Csharp/bin/Debug/netcoreapp2.1/internshiptest.runtimeconfig.json
+/home/intern/Downloads/InternshipTest Csharp/bin/Debug/netcoreapp2.1/internshiptest.runtimeconfig.dev.json
+/home/intern/Downloads/InternshipTest Csharp/bin/Debug/netcoreapp2.1/internshiptest.dll
+/home/intern/Downloads/InternshipTest Csharp/bin/Debug/netcoreapp2.1/internshiptest.pdb
+/home/intern/Downloads/InternshipTest Csharp/obj/Debug/netcoreapp2.1/internshiptest.csprojAssemblyReference.cache
+/home/intern/Downloads/InternshipTest Csharp/obj/Debug/netcoreapp2.1/internshiptest.AssemblyInfoInputs.cache
+/home/intern/Downloads/InternshipTest Csharp/obj/Debug/netcoreapp2.1/internshiptest.AssemblyInfo.cs
+/home/intern/Downloads/InternshipTest Csharp/obj/Debug/netcoreapp2.1/internshiptest.csproj.CoreCompileInputs.cache
+/home/intern/Downloads/InternshipTest Csharp/obj/Debug/netcoreapp2.1/internshiptest.dll
+/home/intern/Downloads/InternshipTest Csharp/obj/Debug/netcoreapp2.1/internshiptest.pdb
+/home/intern/Downloads/InternshipTest Csharp/obj/Debug/netcoreapp2.1/internshiptest.genruntimeconfig.cache
